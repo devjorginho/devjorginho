@@ -21,6 +21,10 @@ My mindset is simple: **Never settle. Always ascend.**
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=white)
 ![Nano](https://img.shields.io/badge/-Nano-000?&logo=gnu&logoColor=white)
 ![Bash Customization](https://img.shields.io/badge/-Custom_Bash-000?&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visualstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/-Mac-000?&logo=apple&logoColor=white)
 
 </div>
 
