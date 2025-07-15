@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a **Software Engineering** and **Computer Science** student at [42 Lisboa](https://www.42lisboa.com/), driven by an endless thirst for knowledge and growth.  
-I am passionate about **low-level memory manipulation**, **reverse engineering**, **robotics**, and applying **machine learning** to boost potential customer conversion.  
+I am passionate about **low-level memory manipulation**, **reverse engineering**, **virtual machine environments**, **robotics**, and applying **machine learning** to boost potential customer conversion.  
 My mindset is simple: **Never settle. Always ascend.**
 
 ---
@@ -11,20 +11,18 @@ My mindset is simple: **Never settle. Always ascend.**
 
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=white)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-000?&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=white)
-![Nano](https://img.shields.io/badge/-Nano-000?&logo=gnu&logoColor=white)
-![Bash Customization](https://img.shields.io/badge/-Custom_Bash-000?&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visualstudio&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/-Mac-000?&logo=apple&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60" style="margin: 5px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Mac" width="60" height="60" style="margin: 5px"/>
 
 </div>
 
@@ -34,28 +32,30 @@ My mindset is simple: **Never settle. Always ascend.**
 
 - 🇵🇹 Portuguese (Native)
 - 🇺🇸 English (Fluent)
-- 🇫🇷 French (Intermediate)
+- 🇫🇷 French (Beginner)
 
 ---
 
+## 🔧 Additional Proficiencies
+
+- Expert in **Virtual Machine Environments** (setup, management, troubleshooting)
+- Skilled in **Low-Level Memory Manipulation** (pointers, memory allocation, debugging)
+- Comfortable with **Bash Customization** and terminal productivity
+- Familiar with **Reverse Engineering** and **Exploit Development**
+
+---
 ## 📚 Current Focus
 
-- Deepening my understanding of **low-level programming** and **memory optimization** 🧠
-- Exploring **Reverse Engineering** and **Exploit Development** 🛡️
-- Advancing in **Robotics** 🤖
-- Studying **Machine Learning** for intelligent client engagement 📈
-
----
-
-## 🔥 Motto
-
-> **"Stagnation is death. Growth is life."**
+- Deepening my understanding of **low-level programming** and **memory optimization** 🧠  
+- Exploring **Reverse Engineering** and **Exploit Development** 🛡️  
+- Advancing in **Robotics** 🤖  
+- Studying **Machine Learning** for intelligent client engagement 📈   
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [jcarvalho.swe@gmail.com](mailto:jcarvalho.swe@gmail.com)
+- 📧 Email: [jcarvalho.swe@gmail.com](mailto:jcarvalho.swe@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/devjorginho](https://www.linkedin.com/in/devjorginho/)
 
 ---
