@@ -34,7 +34,6 @@ My mindset is simple: **Never settle. Always ascend.**
 
 - 🇵🇹 Portuguese (Native)
 - 🇺🇸 English (Fluent)
-- 
 ---
 
 ## 🔧 Additional Proficiencies
