@@ -44,10 +44,8 @@ My mindset is simple: **Never settle. Always ascend.**
 ---
 ## 📚 Current Focus
 
-- Deepening my understanding of **low-level programming** and **memory optimization** 🧠  
-- Exploring **Reverse Engineering** and **Exploit Development** 🛡️  
-- Advancing in **Robotics** 🤖  
-- Studying **Machine Learning** for intelligent client engagement 📈   
+Aprofundando meu conhecimento em Java e Spring ☕🌱
+Studying Machine Learning for intelligent client engagement 📈
 
 ---
 
