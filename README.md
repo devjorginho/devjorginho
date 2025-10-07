@@ -44,8 +44,8 @@ My mindset is simple: **Never settle. Always ascend.**
 ---
 ## 📚 Current Focus
 
-Aprofundando meu conhecimento em Java e Spring ☕🌱
-Studying Machine Learning for intelligent client engagement 📈
+- Deepening my understanding of Java and Spring ☕🌱
+- Studying Machine Learning for intelligent client engagement 📈
 
 ---
 
