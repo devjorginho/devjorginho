@@ -1,4 +1,4 @@
-# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho)
+# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho) 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
@@ -13,7 +13,7 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact (Java)
 > In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a **reference by value**! 🧠
 
 ---
@@ -30,13 +30,13 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -48,6 +48,14 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
+### 🎧 Now Playing
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+
+> 🎵 *James Brown — It's a Man’s Man’s Man’s World*  
+
+---
+
 ### ✨ Random Dev Quote
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
@@ -55,4 +63,4 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
-⭐ *Let’s connect, collaborate, and build something awesome together!*
+⭐ *Made with ❤️ and rhythm by [Jorge Carvalho](https://github.com/devjorginho)*
