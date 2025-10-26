@@ -1,7 +1,12 @@
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/header.png" alt="Header" width="100%">
+</p>
+
 <h1 align="center">
   Hey there 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-  I'm <a href="https://github.com/devjorginho" target="_blank">Jorge</a>
+  I'm <a href="https://github.com/devjorginho" target="_blank" style="color:#1E90FF;">Jorge</a>
 </h1>
 
 <p align="center">
@@ -62,4 +67,9 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing">
   </a>
+</p>
+
+<!-- BOTTOM IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/footer.png" alt="Footer" width="100%">
 </p>
