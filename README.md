@@ -1,42 +1,77 @@
-# Hey there 👋, I'm [**Jorge**](https://github.com/devjorginho) 
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/devjorginho" target="_blank">Jorge</a> 💙</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcarvalho.swe@gmail.com)
-
----
-
-### 👨‍💻 About Me
-
-I'm a **Software Developer** currently studying at **42 Lisboa**, passionate about exploring technology, solving complex problems, and building efficient backend systems.  
-My main focus is **Backend Development** with **Spring** and **Java**, but I come from a strong background in **C** and **low-level memory manipulation** — all thanks to my experience with **Linux** 🐧 and systems programming.
+<p align="center">
+  <a href="https://linkedin.com/in/devjorginho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/jorginhoswe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:jcarvalho.swe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact (Java)
-> In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a **reference by value**! 🧠
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+I'm a <b>Software Developer</b> currently studying at <b>42 Lisboa</b>, passionate about exploring technology, solving complex problems, and building efficient backend systems.<br>
+My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, but I come from a strong background in <b>C</b> and <b>low-level memory manipulation</b> — all thanks to my experience with <b>Linux 🐧</b> and systems programming.
+</p>
 
 ---
 
-### 💡 What I Love
+<h3 align="center">⚡ Fun Fact (Java)</h3>
 
-- 🧠 Exploring new technologies and building cool stuff  
-- 📰 Reading, writing & watching tech content whenever possible  
-- 🍕 Participating in meetups & tech events  
-- 🏐 Playing volleyball & enjoying survival games  
-- 👨‍👩‍👧 Being a proud father and a devoted husband  
+<p align="center">
+  <i>In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a <b>reference by value</b>! 🧠</i>
+</p>
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">💡 What I Love</h3>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+🧠 Exploring new technologies and building cool stuff<br>
+📰 Reading, writing & watching tech content whenever possible<br>
+🍕 Participating in meetups & tech events<br>
+🏐 Playing volleyball & enjoying survival games<br>
+👨‍👩‍👧 Being a proud father and a devoted husband  
+</p>
 
 ---
 
+<h3 align="center">🧰 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🎧 Now Playing</h3>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing">
+  </a>
+</p>
+
+<p align="center"><i>🎵 James Brown – It’s a Man’s Man’s Man’s World</i></p>
+
+---
+
+<h3 align="center">✨ Random Dev Quote</h3>
+
+<p align="center">
+  “Programs must be written for people to read, and only incidentally for machines to execute.”<br>
+  — <i>Harold Abelson</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Made with ❤️ and rhythm by <a href="https://github.com/devjorginho" target="_blank"><b>Jorge Carvalho</b></a>
+</p>
