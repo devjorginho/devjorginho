@@ -1,4 +1,4 @@
-# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho)
+# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho) 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
@@ -30,21 +30,25 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 🎶 Now Playing
+### 🎧 Now Playing
 
-<a href="https://SEU_HOST/api/spotify?theme=dark&spin=true&eq_color=rainbow">
-  <img src="https://SEU_HOST/api/spotify?theme=dark&spin=true&eq_color=rainbow" width="400" alt="Now Playing"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true)
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing">
+  </a>
+</p>
 
 > 🎵 *James Brown – It’s a Man’s Man’s Man’s World*
 
