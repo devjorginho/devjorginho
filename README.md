@@ -1,4 +1,4 @@
-# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho)
+# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho) 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
@@ -42,9 +42,11 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ### 🎶 Now Playing
 
-🎵 *James Brown – It’s a Man’s Man’s Man’s World*  
+<a href="https://SEU_HOST/api/spotify?theme=dark&spin=true&eq_color=rainbow">
+  <img src="https://SEU_HOST/api/spotify?theme=dark&spin=true&eq_color=rainbow" width="400" alt="Now Playing"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/img/animated/music-bars.gif" alt="Equalizer" width="300"/>
+> 🎵 *James Brown – It’s a Man’s Man’s Man’s World*
 
 ---
 
@@ -54,3 +56,5 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 > — *Harold Abelson*
 
 ---
+
+⭐ *Made with ❤️ and rhythm by [Jorge Carvalho](https://github.com/devjorginho)*
