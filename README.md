@@ -40,19 +40,11 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
-### 🧠 Currently Learning
+### 🎶 Now Playing
 
-- Backend Architecture  
-- Microservices  
-- System Design  
+🎵 *James Brown – It’s a Man’s Man’s Man’s World*  
 
----
-
-### 🎧 Now Playing
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
-
-> 🎵 *James Brown — It's a Man’s Man’s Man’s World*  
+<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/img/animated/music-bars.gif" alt="Equalizer" width="300"/>
 
 ---
 
