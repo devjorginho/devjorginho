@@ -39,3 +39,10 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+
+<a href="https://devjorginho.pythonanywhere.com/link">
+  <img
+    src="https://devjorginho.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
