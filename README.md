@@ -54,5 +54,3 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 > — *Harold Abelson*
 
 ---
-
-⭐ *Made with ❤️ and rhythm by [Jorge Carvalho](https://github.com/devjorginho)*
