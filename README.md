@@ -1,8 +1,13 @@
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/devjorginho" target="_blank">Jorge</a> 💙</h1>
+<h1 align="center">
+  Hey there 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+  I'm <a href="https://github.com/devjorginho" target="_blank">Jorge</a>
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/devjorginho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/jorginhoswe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/devjorginho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:jcarvalho.swe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -40,13 +45,13 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
@@ -57,21 +62,4 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing">
   </a>
-</p>
-
-<p align="center"><i>🎵</i></p>
-
----
-
-<h3 align="center">✨ Random Dev Quote</h3>
-
-<p align="center">
-  “Programs must be written for people to read, and only incidentally for machines to execute.”<br>
-  — <i>Harold Abelson</i>
-</p>
-
----
-
-<p align="center">
-⭐ Made with ❤️ and rhythm by <a href="https://github.com/devjorginho" target="_blank"><b>Jorge Carvalho</b></a>
 </p>
