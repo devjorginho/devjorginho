@@ -39,26 +39,3 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
-
-### 🎧 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true)
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=setededos&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing">
-  </a>
-</p>
-
-> 🎵 *James Brown – It’s a Man’s Man’s Man’s World*
-
----
-
-### ✨ Random Dev Quote
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — *Harold Abelson*
-
----
-
-⭐ *Made with ❤️ and rhythm by [Jorge Carvalho](https://github.com/devjorginho)*
