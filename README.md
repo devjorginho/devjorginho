@@ -40,9 +40,3 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
-<a href="https://devjorginho.pythonanywhere.com/link">
-  <img
-    src="https://devjorginho.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
