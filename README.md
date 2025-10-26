@@ -21,13 +21,17 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-I'm a <b>Software Developer</b> currently studying at <b>42 Lisboa</b>, passionate about exploring technology, solving complex problems, and building efficient backend systems.<br>
-My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, but I come from a strong background in <b>C</b> and <b>low-level memory manipulation</b> — all thanks to my experience with <b>Linux 🐧</b> and systems programming.
+  <img src="https://i.gifer.com/76aE.gif" width="40px">
+  I'm a <b>Software Developer</b> currently studying at <b>42 Lisboa</b>, passionate about exploring technology, solving complex problems, and building efficient backend systems.<br>
+  My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, but I come from a strong background in <b>C</b> and <b>low-level memory manipulation</b> — all thanks to my experience with <b>Linux 🐧</b> and systems programming.
+  <img src="https://i.gifer.com/7VZg.gif" width="40px">
 </p>
 
 ---
 
-<h3 align="center">⚡ Fun Fact (Java)</h3>
+<h3 align="center">
+  ⚡ Fun Fact (Java)
+</h3>
 
 <p align="center">
   <i>In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a <b>reference by value</b>! 🧠</i>
@@ -35,19 +39,11 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
 
 ---
 
-<h3 align="center">💡 What I Love</h3>
-
-<p align="center">
-🧠 Exploring new technologies and building cool stuff<br>
-📰 Reading, writing & watching tech content whenever possible<br>
-🍕 Participating in meetups & tech events<br>
-🏐 Playing volleyball & enjoying survival games<br>
-👨‍👩‍👧 Being a proud father and a devoted husband  
-</p>
-
----
-
-<h3 align="center">🧰 Tech Stack</h3>
+<h3 align="center">
+  <img src="https://media.tenor.com/DGJzR4V2X4AAAAAi/blue-laser.gif" width="80">
+  🧰 Tech Stack
+  <img src="https://media.tenor.com/DGJzR4V2X4AAAAAi/blue-laser.gif" width="80">
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
