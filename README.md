@@ -13,7 +13,7 @@ My main focus is **Backend Development** with **Spring** and **Java**, but I com
 
 ---
 
-### ⚡ Fun Fact (Java)
+### ⚡ Fun Fact
 > In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a **reference by value**! 🧠
 
 ---
