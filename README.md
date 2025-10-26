@@ -1,57 +1,66 @@
-# 👋 Welcome to my GitHub!
+# Hey there 👋, I'm **Jorge Carvalho!**
 
-## 🚀 About Me
-I'm a **Software Engineering** and **Computer Science** student at [42 Lisboa](https://www.42lisboa.com/), driven by an endless thirst for knowledge and growth.  
-I am passionate about **low-level memory manipulation**, **reverse engineering**, **virtual machine environments**, **robotics**, and applying **machine learning** to boost potential customer conversion.  
-My mindset is simple: **Never settle. Always ascend.**
-
----
-
-## 🛠️ Skills & Tools
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 5px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="60" height="60" style="margin: 5px"/>
-
-
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcarvalho.swe@gmail.com)
 
 ---
 
-## 🌎 Languages
+### 👨‍💻 About Me
 
-- 🇵🇹 Portuguese (Native)
-- 🇺🇸 English (Advanced)
----
-
-## 🔧 Additional Proficiencies
-
-- Expert in **Virtual Machine Environments** (setup, management, troubleshooting)
-- Skilled in **Low-Level Memory Manipulation** (pointers, memory allocation, debugging)
-- Comfortable with **Bash Customization** and terminal productivity
-- Familiar with **Reverse Engineering** and **Exploit Development**
-
----
-## 📚 Current Focus
-
-- Deepening my understanding of Java and Spring ☕🌱
-- Studying Machine Learning for intelligent client engagement 📈
+I'm a **Software Developer** currently studying at **42 Lisboa**, passionate about exploring technology, solving complex problems, and building efficient backend systems.  
+My main focus is **Backend Development** with **Java** and **Spring**, but I come from a solid foundation in **C** and **low-level memory manipulation** — all thanks to my experience with **Linux** 🐧 and systems programming.
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 Email: [jcarvalho.swe@gmail.com](mailto:jcarvalho.swe@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/devjorginho](https://www.linkedin.com/in/devjorginho/)
+### ⚡ Fun Fact (Java)
+> In Java, everything is pass-by-value — but when you pass an object, you’re actually passing a **reference by value**! 🧠
 
 ---
+
+### 💡 What I Love
+
+- 🧠 Exploring new technologies and building cool stuff  
+- 📰 Reading, writing & watching tech content whenever possible  
+- 🍕 Participating in meetups & tech events  
+- 🏐 Playing volleyball & enjoying survival games  
+- 👨‍👩‍👧 Being a proud father and a devoted husband  
+
+---
+
+### 🧰 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🧠 Currently Learning
+
+- Backend Architecture  
+- Microservices  
+- System Design  
+
+---
+
+### 📊 GitHub Stats
+
+![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgecarvalho&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecarvalho&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgecarvalho&theme=github-dark-blue&hide_border=true)
+
+---
+
+### ✨ Random Dev Quote
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — *Harold Abelson*
+
+---
+
+⭐ *Let’s connect, collaborate, and build something awesome together!*
