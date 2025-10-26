@@ -1,4 +1,4 @@
-# Hey there 👋, I'm **Jorge Carvalho!**
+# Hey there 👋, I'm [**Jorge Carvalho**](https://github.com/devjorginho) 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devjorginho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jorginhoswe)
@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 I'm a **Software Developer** currently studying at **42 Lisboa**, passionate about exploring technology, solving complex problems, and building efficient backend systems.  
-My main focus is **Backend Development** with **Java** and **Spring**, but I come from a solid foundation in **C** and **low-level memory manipulation** — all thanks to my experience with **Linux** 🐧 and systems programming.
+My main focus is **Backend Development** with **Spring** and **Java**, but I come from a strong background in **C** and **low-level memory manipulation** — all thanks to my experience with **Linux** 🐧 and systems programming.
 
 ---
 
@@ -30,13 +30,13 @@ My main focus is **Backend Development** with **Java** and **Spring**, but I com
 
 ### 🧰 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
@@ -45,14 +45,6 @@ My main focus is **Backend Development** with **Java** and **Spring**, but I com
 - Backend Architecture  
 - Microservices  
 - System Design  
-
----
-
-### 📊 GitHub Stats
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgecarvalho&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecarvalho&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgecarvalho&theme=github-dark-blue&hide_border=true)
 
 ---
 
