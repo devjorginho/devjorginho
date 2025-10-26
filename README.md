@@ -59,7 +59,7 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
   </a>
 </p>
 
-<p align="center"><i>🎵 James Brown – It’s a Man’s Man’s Man’s World</i></p>
+<p align="center"><i>🎵</i></p>
 
 ---
 
