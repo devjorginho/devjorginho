@@ -69,7 +69,7 @@ My main focus is <b>Backend Development</b> with <b>Spring</b> and <b>Java</b>, 
   </a>
 </p>
 
-<!-- BOTTOM IMAGE -->
+<!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/footer.png" alt="Footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:001F3F&height=120&section=footer">
 </p>
