@@ -1,10 +1,10 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/header.png" alt="Header" width="100%">
+  <img src="https://apscst.org/wp-content/uploads/2024/01/soft_devlop.gif" alt="Header" width="100%">
 </p>
 
 <h1 align="center">
-  Hey there 
+  Hey 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
   I'm <a href="https://github.com/devjorginho" target="_blank" style="color:#1E90FF;">Jorge</a>
 </h1>
